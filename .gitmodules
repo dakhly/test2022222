@@ -1,0 +1,4 @@
+[submodule "dakhly/test2022222"]
+	path = dakhly/test2022222
+	url = git@github.com:dakhly/test2022222.git
+	branch = main
